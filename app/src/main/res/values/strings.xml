@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="screen1">Favorite Place</string>
+    <string name="screen2">Your Location</string>
+
+    <string name="screen1desc">Tentukan tempat makan favorit kamu! Jangan lupakan tempat makan favorite kamu ya ^^</string>
+    <string name="screen2desc">Kamu tidak lagi kehilangan arah, sebab kamu akan tahu dimana kamu sedang berada</string>
+
+    <string name="startDesc">Hallo selamat datang di applikaasi MyLocation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
